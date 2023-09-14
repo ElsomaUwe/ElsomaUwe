@@ -21,7 +21,9 @@ some more, some less and neglecting outdated stuff like Pascal:
 - Python (as tool for measurement and control apps and data evaluation in laboratory)
 - version control and managment with SVN and github
 - Solidworks CAD
-- 
+- Fusion360 CAD
+- Mach3 CNC Processor
+- CodeSys Wago SPS programming
 - 
 
 <!---
