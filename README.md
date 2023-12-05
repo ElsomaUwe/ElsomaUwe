@@ -9,7 +9,6 @@ technical problem.
 - Doors
 - model based engineering and programming of high volume automotive control units
 - Code generation with TargetLink and Matlab Coder
-- SD/SA with Innovator
 - Eagle (PCB-Design) with special respect of EMC compatible design
 - scilab
 - Vector CANOE, AUTOSAR
