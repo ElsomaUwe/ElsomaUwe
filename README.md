@@ -2,7 +2,7 @@
 developer / engineer at Elsoma GmbH
 
 my expertise and interestes comprises following programming languages and environments,
-neglecting outdated stuff like Pascal, doors, Innovator, PVCS, AVR Assembler.
+neglecting outdated stuff like Pascal, doors, Innovator, PVCS, PIC,AVR and MC51 Assembler...
 Based on this experience i try to meet your expectations and to solve your individual
 technical problem.
 - Matlab, Simulink, Stateflow for system design and evalutation
