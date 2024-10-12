@@ -18,6 +18,7 @@ technical problem.
 - analog and digital electronic circuit design
 - mixed signal circuit design and simulation with LTSpice
 - basic knowledge of HF-Design and electronics
+- EMC precompliance testing
 - Python (as tool for measurement and control apps and data evaluation in laboratory)
 - magnetic simulation with Python and magpylib
 - version control and team based SW-development with SVN and github
