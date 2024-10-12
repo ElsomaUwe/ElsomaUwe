@@ -5,7 +5,7 @@ my expertise and interestes comprises following programming languages and enviro
 neglecting outdated stuff like Pascal, doors, Innovator, PVCS, PIC,AVR and MC51 Assembler...
 Based on this experience i try to meet your expectations and to solve your individual
 technical problem.
-- Matlab, Simulink, Stateflow for system design and evalutation
+- Matlab, Simulink, Stateflow for system design and evaluation
 - Code generation with TargetLink and Matlab Coder
 - scilab
 - model based engineering and programming of high volume automotive control units
