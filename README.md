@@ -24,8 +24,10 @@ technical problem.
 - version control and team based SW-development with SVN and github
 - Solidworks CAD
 - Fusion360 CAD
-- Mach3 CNC Processor
+- CAM conversion of CAD for CNC milling
+- Mach3 / g-Code CNC machining of PCB and mechanical machine parts
 - CodeSys Wago SPS programming
+- workshop experience and capabilities of milling, turning, soft and hard soldering, WIG welding etc. for fixture builing
 
 I'm curious about your challenge.
 <!---
