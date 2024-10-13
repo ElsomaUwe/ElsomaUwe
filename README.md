@@ -2,9 +2,7 @@
 developer / engineer at Elsoma GmbH
 
 I studied electric enigneering at the University of Dortmund.
-I started in a small startup company that developed medical devices.
-For 20 years i worked as a development engineer for comfort and security appplications at a large automotive supplier.
-Now, since 2020 i work at Elsoma, where i am able to bring in the full spectrum of my skills.
+Since 2020 i work at Elsoma, where i am able to bring in the full spectrum of my skills.
 My expertise and interestes comprises following programming languages and environments,
 neglecting outdated stuff like Pascal, doors, Innovator, PVCS, PIC, AVR and MC51 Assembler...
 Based on this experience i try to meet your expectations and to solve your individual
