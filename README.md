@@ -18,6 +18,7 @@ technical problem.
 - C and C++ for µC
 - enhanced knowledge of AVR and ARM Cortex M0+, M3, M4 µC
 - enhanced knowledge of SAMD21, SAMD51, STM32 µC
+- RTOS Azure ThreadX
 - analog and digital electronic circuit design
 - mixed signal circuit design and simulation with LTSpice
 - LoRaWAN Application
